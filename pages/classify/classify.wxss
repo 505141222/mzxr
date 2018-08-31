@@ -1,0 +1,20 @@
+/* pages/classify/classify.wxss */
+page{
+  min-height: 100vh;
+  background: #f4f4f4
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.article {
+  height: 60rpx;
+  line-height: 60rpx;
+  font-size: 40rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  border-bottom: 1rpx solid #ccc;
+  text-indent: 2em;
+  padding: 20rpx 0mm; 
+}

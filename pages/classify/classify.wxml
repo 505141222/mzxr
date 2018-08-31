@@ -1,0 +1,7 @@
+<!--pages/classify/classify.wxml-->
+<view class='wrapper'>
+  <view class='article' bindtap='toArticle'
+   data-index='{{index}}'
+   wx:for='{{articleList}}'
+   wx:key='{{index}}'>{{item.name}}</view>
+</view>

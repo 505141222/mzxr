@@ -1,0 +1,52 @@
+<!--pages/article/how-cute-you-are/how-cute-you-are.wxml-->
+<view>
+  <view class='title'>噢，你怎么这么可爱</view>
+  <view class='p-block'>
+    <view class='p-inline'>你</view>
+    <view class='p-inline'>爱跳爱笑爱胡闹</view>
+    <view class='p-inline'>敢爱敢恨敢忘掉</view>
+    <view class='p-inline'>噢，你怎么这么可爱</view>
+  </view>
+  <view class='p-block'>
+    <view class='p-inline'>我</view>
+    <view class='p-inline'>日思夜想睡不着</view>
+    <view class='p-inline'>牵肠挂肚梦还绕</view>
+    <view class='p-inline'>噢，你怎么这么可爱</view>
+  </view>
+  <view class='p-block'>
+    <view class='p-inline'>你</view>
+    <view class='p-inline'>百变精灵猜不到</view>
+    <view class='p-inline'>萝莉女王都奇妙</view>
+    <view class='p-inline'>噢，你怎么这么可爱</view>
+  </view>
+  <view class='p-block'>
+    <view class='p-inline'>我</view>
+    <view class='p-inline'>思念情绪在发酵</view>
+    <view class='p-inline'>好想把你怀中抱</view>
+    <view class='p-inline'>噢，你怎么这么可爱</view>
+  </view>
+  <view class='p-block'>
+    <view class='p-inline'>你</view>
+    <view class='p-inline'>活泼任性欢乐造</view>
+    <view class='p-inline'>讨人喜欢总觉俏</view>
+    <view class='p-inline'>噢，你怎么这么可爱</view>
+  </view>
+  <view class='p-block'>
+    <view class='p-inline'>我</view>
+    <view class='p-inline'>放下一切舍骄傲</view>
+    <view class='p-inline'>只为伊人倾城笑</view>
+    <view class='p-inline'>噢，你怎么这么可爱</view>
+  </view>
+  <view class='p-block'>
+    <view class='p-inline'>你</view>
+    <view class='p-inline'>追求自由和美好</view>
+    <view class='p-inline'>无拘无束抓不到</view>
+    <view class='p-inline'>噢，你怎么这么可爱</view>
+  </view>
+  <view class='p-block'>
+    <view class='p-inline'>我</view>
+    <view class='p-inline'>迷恋太深想脱逃</view>
+    <view class='p-inline'>奈何相思无解药</view>
+    <view class='p-inline'>噢，你怎么这么可爱</view>
+  </view>
+</view>

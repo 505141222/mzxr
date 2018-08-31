@@ -1,0 +1,14 @@
+/* pages/article/how-cute-you-are/how-cute-you-are.wxss */
+.title {
+  padding: 10pt 0 20pt;
+  text-align: center;
+}
+
+.p-block {
+  margin-bottom: 20pt;
+  font-size: 10pt;
+}
+.p-inline {
+    line-height: 20pt;
+    text-indent: 20pt;
+}

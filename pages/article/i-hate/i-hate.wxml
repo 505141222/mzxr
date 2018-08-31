@@ -1,0 +1,79 @@
+<!--pages/article/i-hate/i-hate.wxml-->
+<view>
+  <view class='title'>我讨厌</view>
+  <view class='p-block'>
+    <view class='p-inline'>我讨厌雨天，</view>
+    <view class='p-inline'>我讨厌雪天，</view>
+    <view class='p-inline'>我讨厌阴天，</view>
+    <view class='p-inline'>我讨厌春天，</view>
+    <view class='p-inline'>我讨厌，讨厌所有没有你的天气</view>
+  </view>
+   <view class='p-block'>
+    <view class='p-inline'>我讨厌周三，</view>
+    <view class='p-inline'>我讨厌周五，</view>
+    <view class='p-inline'>我讨厌周一，</view>
+    <view class='p-inline'>我讨厌周日，</view>
+    <view class='p-inline'>我讨厌，讨厌所有会想你的日子</view>
+  </view>
+  <view class='p-block'>
+    <view class='p-inline'>我讨厌夏天，</view>
+    <view class='p-inline'>我讨厌冬天，</view>
+    <view class='p-inline'>我讨厌秋天，</view>
+    <view class='p-inline'>我讨厌春天，</view>
+    <view class='p-inline'>我讨厌，讨厌所有你不在的季节</view>
+  </view>
+    <view class='p-block'>
+    <view class='p-inline'>我讨厌雨天，因为雨天没有你。</view>
+    <view class='p-inline'>我讨厌雪天，因为雪天没有你。</view>
+    <view class='p-inline'>我讨厌阴天，因为阴天没有你。</view>
+    <view class='p-inline'>我讨厌晴天，因为晴天还是没有你。</view>
+    <view class='p-inline'>我讨厌，讨厌所有没有你的天气</view>
+  </view>
+   <view class='p-block'>
+    <view class='p-inline'>我讨厌周三，因为周三会想你。</view>
+    <view class='p-inline'>我讨厌周五，因为周五会想你。</view>
+    <view class='p-inline'>我讨厌周一，因为周一会想你</view>
+    <view class='p-inline'>我讨厌周日，因为周日还是会想你</view>
+    <view class='p-inline'>我讨厌，讨厌所有会想你的日子</view>
+  </view>
+  <view class='p-block'>
+    <view class='p-inline'>我讨厌夏天，因为夏天你不在。</view>
+    <view class='p-inline'>我讨厌冬天，因为冬天你不在。</view>
+    <view class='p-inline'>我讨厌秋天，因为秋天你不在。</view>
+    <view class='p-inline'>我讨厌春天，因为春天你还是不在。</view>
+    <view class='p-inline'>我讨厌，讨厌所有你不在的季节</view>
+  </view>
+    <view class='p-block'>
+    <view class='p-inline'>我讨厌雨天，</view>
+    <view class='p-inline'>因为可恶的雨水会将你淋湿，还有没有你。</view>
+    <view class='p-inline'>我讨厌雪天，</view>
+    <view class='p-inline'>因为冰冷的雪花会将你冻伤，还有没有你。</view>
+    <view class='p-inline'>我讨厌阴天，</view>
+    <view class='p-inline'>因为压抑的气氛会使你沉闷，还有没有你。</view>
+    <view class='p-inline'>我讨厌晴天，</view>
+    <view class='p-inline'>因为在这阳光灿烂的天气里却没有你。</view>
+    <view class='p-inline'>我讨厌，讨厌所有没有你的天气</view>
+  </view>
+   <view class='p-block'>
+    <view class='p-inline'>我讨厌周三，</view>
+    <view class='p-inline'>因为忙碌的工作会让我疲惫，还有会想你。</view>
+    <view class='p-inline'>我讨厌周五，</view>
+    <view class='p-inline'>因为即来的周末会让我害怕，还有会想你。</view>
+    <view class='p-inline'>我讨厌周一，</view>
+    <view class='p-inline'>因为长久的工作日使我恐惧，还有会想你。</view>
+    <view class='p-inline'>我讨厌周日，</view>
+    <view class='p-inline'>因为在这原本无比惬意的日子我却始终在想你。</view>
+    <view class='p-inline'>我讨厌，讨厌所有会想你的日子</view>
+  </view>
+  <view class='p-block'>
+    <view class='p-inline'>我讨厌夏天，</view>
+    <view class='p-inline'>因为似火的骄阳会把你晒伤，还有你不在。</view>
+    <view class='p-inline'>我讨厌冬天，</view>
+    <view class='p-inline'>因为持续的低温会使你发抖，还有你不在。</view>
+    <view class='p-inline'>我讨厌秋天，</view>
+    <view class='p-inline'>因为残败的景象会让你低落，还有你不在。</view>
+    <view class='p-inline'>我讨厌春天，</view>
+    <view class='p-inline'>因为这季节有着无数迷人的景色而你却不在。</view>
+    <view class='p-inline'>我讨厌，讨厌所有你不在的季节</view>
+  </view>
+</view>

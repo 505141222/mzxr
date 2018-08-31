@@ -1,0 +1,28 @@
+<!--pages/article/what-is-wrong/what-is-wrong.wxml-->
+<view>
+  <view class='title'>这是怎么了？</view>
+  <view class='p-block'>
+    这是怎么了，为什么吃饱后还会饿？
+  </view>
+  <view class='p-block'>
+    这是怎么了，为什么哭过后还会乐？
+  </view>
+  <view class='p-block'>
+    这是怎么了，为什么努力去做还会错？
+  </view>
+  <view class='p-block'>
+    这是怎么了，为什么甜美中会有一点苦涩？
+  </view>
+  <view class='p-block'>
+    赤橙黄绿让我混淆了颜色
+  </view>
+  <view class='p-block'>
+    不知道该去选择什么
+  </view>
+  <view class='p-block'>
+    谁能告诉我该怎么去做
+  </view>
+   <view class='p-block'>
+    哦，这是怎么了？ 
+  </view>
+</view>

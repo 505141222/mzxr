@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/message/message",
+    "pages/classify/classify",
+    "pages/mine/mine",
+    "pages/article/what-is-wrong/what-is-wrong",
+    "pages/article/i-hate/i-hate",
+    "pages/article/how-cute-you-are/how-cute-you-are"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "梦之城堡",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "selectedColor": "#e6c49f",
+    "color": "#222",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/classify/classify",
+        "text": "文章"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "个人"
+      }
+    ]
+  }
+}
